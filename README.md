@@ -1,2 +1,3 @@
 # hello-world
 This is a repository to learn how to use this thing
+My name is Joseph Davenport, I am a computer science major at Georgia Southern University. The only language I can still use is Java because of my college classes, but in high school I learned basic HTML and unfortunately a ton of Scratch. I have since forgotten how to write my on html code, but can read what is going on in HTML programs. In my free time I like to skateboard and play some video games. The game I play most is minecraft, which is interesting considering I have only learned Java in college. I spent some time over the summer in 2024 updating mods other people have made to the newest version of minecraft because many modders have retired and no longer update their projects.
